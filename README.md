@@ -68,3 +68,16 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+**Travel List**
+**Project Overview: Developed a Travel List application using JavaScript and React, designed to help users manage their packing lists efficiently.
+**Key Features:**
+**Form Handling:** Implemented a form that allows users to add items to their travel list with a specified number and text description.
+**Interactive List:** Each added item includes a checkbox to mark it as packed or unpacked.
+**Footer Stats:** Displayed real-time statistics showing the number of packed items and the percentage of items packed.
+**React Concepts Utilized:**
+Component Creation and Reuse: Built modular and reusable components for the form, list, and footer stats.
+Props and State Management: Managed the state of the list items and their packed status using React’s state and props.
+Conditional Rendering: Applied conditional rendering to dynamically update the UI based on the state.
+JSX: Used JSX for structuring and rendering the components.
+State Management: Employed React’s useState hook to manage the state of the travel items and their packing status.
